@@ -1,0 +1,283 @@
+[
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511216935621,
+            "changeTime": 1511216935621,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511216935622,
+            "changeTime": 1511216935622,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511218680769,
+            "changeTime": 1511218680769,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511216935622,
+            "changeTime": 1511216935622,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511217486624,
+            "changeTime": 1511217486624,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Phonetest__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Phonetest__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1511218680606,
+            "changeTime": 1511218680606,
+            "contentHash": "7f01f4e77afc5c3bfc065b4668c16db16bc6aaae"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9809,
+            "modifiedTime": 1511218680633,
+            "changeTime": 1511218680633,
+            "contentHash": "83fdb283c003614f0590c95850547708530923e6"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9757,
+            "modifiedTime": 1511218680653,
+            "changeTime": 1511218680653,
+            "contentHash": "f9c55c3da5b5a603ef47fb73cfda454b1e421ae6"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9709,
+            "modifiedTime": 1511218680667,
+            "changeTime": 1511218680667,
+            "contentHash": "23412310dffa2208f3bf345432e685eadf03448d"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9757,
+            "modifiedTime": 1511218680679,
+            "changeTime": 1511218680679,
+            "contentHash": "538196da49745204ed2b69d5eebb8dc3302219b8"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4370,
+            "modifiedTime": 1511218680690,
+            "changeTime": 1511218680690,
+            "contentHash": "cd48cafe0cfaef6f1bd8479250865459d333e33c"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4710,
+            "modifiedTime": 1511218680707,
+            "changeTime": 1511218680707,
+            "contentHash": "a92459cbdd2b528937c30a1f8e9cfa96e16e51f1"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4374,
+            "modifiedTime": 1511218680720,
+            "changeTime": 1511218680720,
+            "contentHash": "f387d34c09ef61b29b8d97e1a363422643660707"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17056,
+            "modifiedTime": 1511218680767,
+            "changeTime": 1511218680767,
+            "contentHash": "a40eb246a33361a5c4a2b720015537e0e681269b"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\permissionsets\\phone_permision.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\permissionsets\\phone_permision.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1511218680771,
+            "changeTime": 1511218680771,
+            "contentHash": "c045bbab78bdd14ffe74f88123ce38928e80be7a"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511218680605,
+            "changeTime": 1511218680605,
+            "contentHash": "0b3776fac0253fffb0af4495ba9883d79814d3ea"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511218680603,
+            "changeTime": 1511218680603,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511218680602,
+            "changeTime": 1511218680602,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511218680678,
+            "changeTime": 1511218680678,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511218680766,
+            "changeTime": 1511218680766,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vedanath\\my_sfdx_project\\sfdx-dreamhouse\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1511218680770,
+            "changeTime": 1511218680770,
+            "contentHash": "06d749afd98339cab37a8dd6c9d1676a3edd52bc"
+        }
+    ]
+]
