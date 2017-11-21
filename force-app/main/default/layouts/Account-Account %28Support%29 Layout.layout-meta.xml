@@ -43,7 +43,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Phonetest__c</field>
+                <field>Location__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

@@ -3,7 +3,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Phonetest__c</field>
+        <field>Account.Location__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
